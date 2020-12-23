@@ -32,6 +32,6 @@ jobs:
             QQREADTIMEURL: ${{ secrets.QQREADTIMEURL }}
             NOTIFYTYPE: ${{ secrets.NOTIFYTYPE }}
             NOTIFYCFG: ${{ secrets.NOTIFYCFG }}
-            DRAWAMOUNT: ${{ secrets.DRAWAMOUNT }}
+        
             SCKEY: ${{ secrets.SCKEY }}
          
